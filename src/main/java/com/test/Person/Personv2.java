@@ -1,4 +1,6 @@
-package com.test;
+package com.test.Person;
+
+import com.test.Name;
 
 public class Personv2 {
 private Name name ;
